@@ -81,14 +81,14 @@ vuln = "\033[92mVuln"
 os.system("clear")
 print  """
 \033[1;92m    _          _                                                           \        /                                                           __\______/__
-\033[1;92m    | [©]  [©] |​
+\033[1;91m    | [©]  [©] |​
 \033[1;92m    |  [====]  | [+] DARK_MIND HACKER  [+]
 \033[1;92m╔══o00════════00o═════════════════════════╗
-\033[1;92m█  [•] Author:DARK_DEVIL                  █
-\033[1;92m█  [•] Faceboook:darkhacker07             █
-\033[1;92m█  [•] Whatsapp:1875529351_               █
-\033[1;92m█  [•] Youtube:UCXItn4AnlxExhW0virHuD3Q   █
-\033[1;92m█  [•] Version:0.3                        █
+\033[1;91m█  [•] Author:DARK_DEVIL                  █
+\033[1;91m█  [•] Faceboook:darkhacker07             █
+\033[1;91m█  [•] Whatsapp:1875529351_               █
+\033[1;91m█  [•] Youtube:UCXItn4AnlxExhW0virHuD3Q   █
+\033[1;91m█  [•] Version:0.3                        █
 \033[1;92m╚═════════════════════════════════════════╝
 """
 
@@ -135,9 +135,9 @@ CorrectPassword = "DEVIL"
 
 loop = 'true'
 while (loop == 'true'):
-    username = raw_input("\033[1;92m\x1b[1;92mUser/Name \x1b[1;92m➡▶\x1b[1;92m")
+    username = raw_input("\033[1;92m\x1b[1;92mUserName \x1b[1;92m:\x1b[1;92m")
     if (username == CorrectUsername):
-    	password = raw_input("\033[1;92m \x1b[1;92mUser/Password  \x1b[1;92m➡▶\x1b[1;92m")
+    	password = raw_input("\033[1;92m \x1b[1;92mPassword  \x1b[1;92m:\x1b[1;92m")
         if (password == CorrectPassword):
             print "Logged in successfully as " + username #Dark:Devil
 	    time.sleep(1)
