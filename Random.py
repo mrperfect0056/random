@@ -83,12 +83,12 @@ print  """
 \033[1;92m
 \033[1;92m    | [©]  [©] |​
 \033[1;92m
-\033[1;92m╔══o00════════°00o═════════════════════════╗
-\033[1;92m█  [•] Author    :   DARK_DEVIL                  █
-\033[1;92m█  [•] Faceboook  : darkhacker07                 █
-\033[1;92m█  [•] Whatsapp  :   1875529351_                 █
-\033[1;92m█  [•] Youtube  :   UCXItn4AnlxExhW0virHuD3Q     █
-\033[1;92m█  [•] Version   :   0.3                         █
+\033[1;92m╔══o00════════00o═════════════════════════╗
+\033[1;92m█  [•] Author:DARK_DEVIL                  █
+\033[1;92m█  [•] Faceboook:darkhacker07                 █
+\033[1;92m█  [•] Whatsapp:1875529351_                 █
+\033[1;92m█  [•] Youtube:UCXItn4AnlxExhW0virHuD3Q     █
+\033[1;92m█  [•] Version:0.3                         █
 \033[1;92m╚═════════════════════════════════════════╝
 """
 
