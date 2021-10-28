@@ -106,7 +106,7 @@ print  """
 ####Logo####
 
 logo1 = """
-\033[1;92m██████╗░░█████╗░██████╗░██        ██　 
+\033[1;92m██████╗░░█████╗░██████╗░██║░  ██　 
 \033[1;92m██╔══██╗██╔══██╗██╔══██╗██║░██
 \033[1;92m██║░░██║███████║██████╔╝█████ 
 \033[1;92m██║░░██║██╔══██║██╔══██╗██╔═██
@@ -119,7 +119,7 @@ logo1 = """
 \033[1;92mFACEBOOK: darkhacker07
 \033[1;92mYOUTUBE: UCXItn4AnlxExhW0virHuD3Q
 \033[1;92mGITHUB: mrperfect0056
-\033[1;92mWHATAAPP: +8801875529351
+\033[1;92mWHATAAPP: 1875529351
 \033[1;92m•••••••••••••DARK••••••••••••••••••••••••••••••••••••••••••••••••••••••••      
 \033[1;92m••••••••••••••DEVIL•••••••••••••••••••••••••••••••••••••••••••••••••••••••      
 """
@@ -188,7 +188,7 @@ def pilih_login():
 def Zeek():
     os.system('clear')
     print logo1
-    print '\x1b[1;92m[1]  START CRACKING With DARK'
+    print '\x1b[1;92m[1] START CRACKING'
     time.sleep(0.10)
     print '\x1b[1;92m[2] DARK FB ACCOUNT'
     time.sleep(0.10)
@@ -234,7 +234,7 @@ def action():
     xxx = str(len(id))
     jalan ('\033[1;92m Total ids number: '+xxx)
     jalan ('\033[1;92mCode you choose: '+c)
-    jalan ("\033[1;92mWait A While Start Account Cracking...")
+    jalan ("\033[1;92mPlease Wait Start Cracking...")
     jalan ("\033[1;92mTo Stop Process Press Ctrl+z")
     print 50* '\033[1;92m-'
     def main(arg):
@@ -360,7 +360,7 @@ def action():
 ██║╚██╔╝██║
 ██║░╚═╝░██║
 ╚═╝░░░░░╚═╝
-\033[1;92mThanks me later
+\033[1;92mThanks For Using This Tool
 \033[1;92mFb\033[1;92mDark
 \033[1;92myoutube\033[1;92mhttps://w ww.youtube.com/channel/UCXItn4AnlxExhW0virHuD3Q"""
 
