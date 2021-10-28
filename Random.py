@@ -105,6 +105,7 @@ logo1 = """
 \033[1;91m█  [•] Youtube:UCXItn4AnlxExhW0virHuD3Q   █
 \033[1;91m█  [•] Version:0.3                        █
 \033[1;92m╚═════════════════════════════════════════╝
+"""
 logo2 = """
 \033[1;92m    _          _                                                           \        /                                                           __\______/__
 \033[1;91m    | [©]  [©] |​
@@ -116,6 +117,7 @@ logo2 = """
 \033[1;91m█  [•] Youtube:UCXItn4AnlxExhW0virHuD3Q   █
 \033[1;91m█  [•] Version:0.3                        █
 \033[1;92m╚═════════════════════════════════════════╝
+"""
 CorrectUsername = "DARK"
 CorrectPassword = "DEVIL"
 
