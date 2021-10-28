@@ -2,7 +2,7 @@
 #coding=utf-8
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,getpass
 os.system('rm -rf .txt')
-for n in range(5000):
+for n in range(10000):
 
     nmbr = random.randint(1111111, 9999999)
     
@@ -190,8 +190,8 @@ def action():
     elif peak =="1":              
         os.system("clear")
         print logo2
-        print "Enter any Mobile code Number"+'\n'
-        print 'Enter any code  3021 3022,3020,3024,3025, '
+        print "Enter any Mobile Number"+'\n'
+        print 'Enter any code  3021221011,3023010203,302102030'
         try:
             c = raw_input("\033[1;92mCHOOSE : ")
             k="+1"
