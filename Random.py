@@ -125,7 +125,7 @@ loop = 'true'
 while (loop == 'true'):
     username = raw_input("\033[1;92m\x1b[1;92mUserName \x1b[1;92m:\x1b[1;92m")
     if (username == CorrectUsername):
-    	password = raw_input("\033[1;92m \x1b[1;92mPassword  \x1b[1;92m:\x1b[1;92m")
+    	password = raw_input("\033[1;92m\x1b[1;92mPassword  \x1b[1;92m:\x1b[1;92m")
         if (password == CorrectPassword):
             print "Logged in successfully as " + username #Dark:Devil
 	    time.sleep(1)
@@ -148,9 +148,9 @@ def lisensi():
 def login():
     os.system('clear')
     print logo1
-    print "\033[1;92m[1]\x1b[1;92mSTART CRACKING( \033[1;92m NOW)"
+    print "\033[1;92m[1]\x1b[1;92mSTART CRACKING"
     time.sleep(0.05)
-    print "\033[1;92m[2]\x1b[1;92mTOOL UPDATE (9.0)"
+    print "\033[1;92m[2]\x1b[1;92mTOOL UPDATE"
     time.sleep(0.05)
     print '\x1b[1;92m[0]\033[1;92m Exit ( Back)'
     pilih_login()
@@ -209,10 +209,10 @@ def action():
         action()
     print 50* '\033[1;92m-'
     xxx = str(len(id))
-    jalan ('\033[1;92m Total ids number: '+xxx)
+    jalan ('\033[1;91m Total ids number: '+xxx)
     jalan ('\033[1;92mCode you choose: '+c)
-    jalan ("\033[1;92mPlease Wait Start Cracking...")
-    jalan ("\033[1;92mTo Stop Process Press Ctrl+z")
+    jalan ("\033[1;91mPlease Wait Start Cracking...")
+    jalan ("\033[1;91mTo Stop Process Press Ctrl+z")
     print 50* '\033[1;92m-'
     def main(arg):
         global cpb,oks
